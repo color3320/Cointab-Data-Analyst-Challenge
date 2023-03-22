@@ -20,3 +20,6 @@ To get the data and know more about the data, expected output download this pdf
         <p>This browser does not support PDFs. Please download the PDF to view it in pdf: <a href="https://github.com/color3320/Cointab-Data-Analyst-Challenge/blob/main/Data%20Analyst%20-%20Assignment%20V1..pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+## My Submission
+[This is my Submission for the above challenge](https://github.com/color3320/Cointab-Data-Analyst-Challenge/blob/main/Cointab%20Data%20Analyst%20-%20Challenge.ipynb)
